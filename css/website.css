@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	font-family: 'Poppins';
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 40px;
+}
+
+header h1{
+	color: whitesmoke;
+	font-size: 70px;
+}
+
+header img{
+	border-radius: 10px;
+    width: 300px;
+    border: 10px solid;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+h2{
+	font-size: 35px;
+	color: whitesmoke;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: whitesmoke;
+}
+a:hover{
+	color: red;
+}
+
+p{
+	color: whitesmoke;
+}
+
+ol{
+	color: whitesmoke;
+}
+
+li{
+	color: whitesmoke;
+}
+
+footer{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 50px;
+}
